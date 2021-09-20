@@ -18,21 +18,22 @@
 + Git, GitHub
 + VS Code
 + Adobe Photoshop, Illustrator, Figma  
+
 ### Code Example ###
-```
-<!DOCTYPE HTML>
-<html>
-<body>
-  <script>
-    alert( 'Привет, мир!' );
-  </script>
-</body>
-</html>
-```
+    <!DOCTYPE HTML>
+    <html>
+    <body>
+      <script>
+        alert( 'Привет, мир!' );
+      </script>
+    </body>
+    </html>
+
 ### Courses ###
 + HTML для начинающих Hexlet (completed)
 + Web Design from Adukar (completed)
 + RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)  
+
 ### Languages ###
 + English A2
 + Russian - Native
